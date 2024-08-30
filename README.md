@@ -1,0 +1,1 @@
+This data has been sentimentally analysed to calculate e_score, g_score, s_score and also  metrics like polarity, negative tone, overall tone and tone  for different companies from dec'30 2020 to 12 january 2021.
